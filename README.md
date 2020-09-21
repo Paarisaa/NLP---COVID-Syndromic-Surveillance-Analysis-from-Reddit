@@ -1,1 +1,1 @@
-# NLP---COVID-Syndromic-Surveillance-Analysis-from-Reddit
+# COVID Syndromic Surveillance Analysis from Reddit
