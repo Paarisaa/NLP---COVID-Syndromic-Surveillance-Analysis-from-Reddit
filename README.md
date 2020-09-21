@@ -5,6 +5,8 @@ xlrd, xlsxwriter, nltk, pandas, re, math
 
 
 To run the code clone the entire repository and run $Assignment1_Parisa_Sarikhani.py$ file.  
-The inputs are added to the main repo
+The required input files are added to the main repo.
+
+
 
 
