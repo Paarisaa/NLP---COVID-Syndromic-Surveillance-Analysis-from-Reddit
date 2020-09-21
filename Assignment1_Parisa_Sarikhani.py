@@ -39,9 +39,9 @@ for iteration, expression in my_annotations.iterrows():
     if expression['Symptom Expressions']!='nan':
         espression_split = expression['Symptom Expressions'].split('$$$')
         sym_cui_split = expression['Symptom CUIs'].split('$$$')
-        for sym, cui in zip(espression_split, sym_cui_split):
-            if sym and cui:
-                symptom_dict[sym] = cui 
+        #for sym, cui in zip(espression_split, sym_cui_split):
+        #    if sym and cui:
+        #        symptom_dict[sym] = cui 
 
 
 
